@@ -44,6 +44,10 @@ Below are some screenshots showcasing different aspects of the game:
 <img width="1429" alt="Screenshot 2024-01-09 at 9 54 39 PM" src="https://github.com/JSirisavath/pigGame/assets/122318778/e23754f2-4ab7-4d19-baea-ef7543eabfe0">
 
 
+### End Game
+<img width="1439" alt="Screenshot 2024-01-09 at 10 08 39 PM" src="https://github.com/JSirisavath/pigGame/assets/122318778/382efd11-8359-469c-a2b0-b30609338352">
+
+
 ## Documentation
 Each file within the project is thoroughly commented to explain its structure and purpose, aiding in understanding the code and its functionality.
 
